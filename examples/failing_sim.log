@@ -1,0 +1,4 @@
+VCD info: dumpfile counter.vcd opened for output.
+broken_counter.v:10: warning: width mismatch: RHS is 1 bit wider than count.
+broken_counter.v:12: Error: undeclared identifier `missing_signal`.
+SIM: assertion failed at broken_counter.v:14: count did not reach 4'hf
